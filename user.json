@@ -1,0 +1,18 @@
+{
+    "role": {
+        "info": {
+            "yus": {
+                "json": {
+                    "listset": "user/yus/listset.json",
+                    "position": "user/yus/position.json",
+                    "setting": "user/yus/setting.json"
+                },
+                "mid": "u0b6d826e613c6cd463ea43db4bf8110b"
+            }
+        },
+        "owner": "u0b6d826e613c6cd463ea43db4bf8110b",
+        "user": {
+            "u0b6d826e613c6cd463ea43db4bf8110b": "yus"
+        }
+    }
+}
